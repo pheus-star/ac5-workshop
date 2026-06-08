@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-# init.sh
-
 set +e
 pip install -r requirements.txt
 wget https://raw.githubusercontent.com/textualize/rich/refs/heads/master/examples/tree.py
